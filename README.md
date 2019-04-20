@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Deploy information
+#### API endpoint URL
+ https://reqruit-sample.herokuapp.com
 
-Things you may want to cover:
+#### Repository URL
+https://github.com/ryotamorohashi/reqruit
 
-* Ruby version
+#### Language used
+- ruby(On rails)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Hosting service
+- Heroku
